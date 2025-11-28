@@ -1,0 +1,24 @@
+{
+  "name": "discord.js-base",
+  "version": "1.0.0",
+  "description": "A modern discord.js v14.x.x bot base for regular use.",
+  "homepage": "https://github.com/WhoAboutYT/discord.js-base#readme",
+  "bugs": {
+    "url": "https://github.com/WhoAboutYT/discord.js-base/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhoAboutYT/discord.js-base.git"
+  },
+  "license": "MIT",
+  "author": "WhoAboutYT",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3"
+  }
+}
